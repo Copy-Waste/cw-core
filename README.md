@@ -10,4 +10,4 @@ This repository will serve as the home for all of our vlogs, presentations, and 
 
 The project introduction vlog can be found [here](www.youtube.com).
 
-The [script] and [slides] for this vlog is in the vlog folder.
+The [script](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Script.pdf) and [slides](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Vlog.pdf) for this vlog is in the vlog folder.

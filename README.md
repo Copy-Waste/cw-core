@@ -1,13 +1,12 @@
-# cw-core
-
-## Copy Waste
+# Copy Waste
 
 Copy Waste is a Software Systems Engineering Capstone project by Nolan Flegel, Rishabh Prasad, and William Peers.
 
-This repository will serve as the home for all of our vlogs, presentations, and documentation.
+This project will be in partnership with Prairie Robotics
 
 ## Project Introduction Vlog
 
-The project introduction vlog can be found [here](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/).
+The project introduction vlog can be found [here](https://youtu.be/U14Ei5zRgFo).
 
-The [script](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Script.pdf) and [slides](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Vlog.pdf) for this vlog have been uploaded to the vlog folder.
+[Click here to view our script](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Script.pdf) 
+[Click here to view our presentation](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Intro%20Vlog.pdf)

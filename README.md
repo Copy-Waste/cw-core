@@ -4,10 +4,19 @@ Copy Waste is a Software Systems Engineering Capstone project by Nolan Flegel, R
 
 This project will be in partnership with Prairie Robotics
 
-## Project Introduction Vlog
+## Vlogs
 
+### Project Introduction Vlog
 The project introduction vlog can be found [here](https://youtu.be/U14Ei5zRgFo).
 
-[Click here to view our script](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Introduction%20Script.pdf)
+[Click here to view our script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%201/Introduction%20Script.pdf)
 
-[Click here to view our presentation](https://github.com/Copy-Waste/cw-core/blob/main/vlogs/vlog1/Introduction%20Presentation.pdf)
+[Click here to view our presentation](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%201/Introduction%20Presentation.pdf)
+
+### Vlog 2
+
+Vlog 2 can be found [here](https://youtu.be/TKc6Ga1Qyq4).
+
+[Click here to view vlog 2 script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%202/Vlog%202%20-%20Script.pdf)
+
+[Click here to view our presentation](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%202/Vlog%202%20-%20Presentation.pdf)

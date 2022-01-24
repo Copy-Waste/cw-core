@@ -2,8 +2,6 @@
 
 Copy Waste is a Software Systems Engineering Capstone project by Nolan Flegel, Rishabh Prasad, and William Peers.
 
-This project will be in partnership with Prairie Robotics
-
 ## Vlogs
 
 ### Project Introduction Vlog

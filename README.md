@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Assets/CW-logo.png" alt="Logo" width="200" height="200">
+    <img src="Assets/CW-logo.png" alt="Logo" height="200">
 
   <h1 align="center">Copy-Waste</h3>
 

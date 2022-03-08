@@ -32,7 +32,7 @@ Our goal is to develop a product which is able to detect rare and severe contami
 
 4. Vlog 4 - [Video](https://youtu.be/ADXtTtiVm4w) | [Script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%204/Vlog%204%20-%20Script.pdf) | [Slides](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%204/Vlog%204%20-%20Presentation.pdf)
 
-5. Vlog 4 - [Video](https://youtu.be/1DTdelKtWiw) | [Script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%205/Vlog%205%20-%20Script.pdf) | [Slides](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%205/Vlog%205%20-%20Presentation.pdf)
+5. Vlog 5 - [Video](https://youtu.be/1DTdelKtWiw) | [Script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%205/Vlog%205%20-%20Script.pdf) | [Slides](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%205/Vlog%205%20-%20Presentation.pdf)
 
 ## Acknowledgements
 

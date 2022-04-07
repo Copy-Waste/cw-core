@@ -8,6 +8,10 @@
   </p>
 </div>
 
+
+## Commercial
+Watch our commercial by clicking [here](https://www.youtube.com/watch?v=nW5Q-jcULXU) to get a brief look into out project.
+
 ## Project Background
 Mismanagement of recyclable waste is an environmental disaster and a burden on society. Recycling is an inefficient, costly and risky process. This project’s purpose is to increase recycling collection rates while also reducing risks for waste management workers and costs for municipalities.We intend to accomplish this goal through three deliverables:
 

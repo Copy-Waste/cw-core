@@ -44,6 +44,11 @@ Finally, through data augmentation, this project also focuses on detecting rare 
 
 </details>
 
+## Demos
+
+- [Watch the Green Screen Dashboard Demo here](https://youtu.be/NqiuXiez3qs)
+- [Watch the Universal Bin Detector Demo here](https://youtu.be/K-p7Ay8yws8)
+
 ## Vlogs
 
 1. Project Introduction Vlog - [Video](https://youtu.be/U14Ei5zRgFo) | [Script](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%201/Introduction%20Script.pdf) | [Slides](https://github.com/Copy-Waste/cw-core/blob/main/Vlogs/Vlog%201/Introduction%20Presentation.pdf)

@@ -89,7 +89,7 @@ All of our detailed documentation can be found [here](https://github.com/Copy-Wa
   - [Copy Waste Data Augmentation - Developer Readme](https://github.com/Copy-Waste/cw-core/blob/main/Documentation/9%20-%20Project%20Closing/Knowledge%20Base/Copy%20Waste%20Data%20Augmentation%20-%20README.md)
   - [Universal Bin Detector - Developer Readme](https://github.com/Copy-Waste/cw-core/blob/main/Documentation/9%20-%20Project%20Closing/Knowledge%20Base/Universal%20Bin%20Detector%20-%20README.md)
 - Final Presentation
-- Project Experience Report
+- [Project Experience Report](https://github.com/Copy-Waste/cw-core/blob/main/Documentation/9%20-%20Project%20Closing/After%20Action%20Review.pdf)
 
 ## Demos
 

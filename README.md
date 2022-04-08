@@ -44,6 +44,7 @@ Finally, through data augmentation, this project also focuses on detecting rare 
 
 </details>
 
+*Click the above points to learn more about each deliverable*
 ## Demos
 
 - [Watch the Green Screen Dashboard Demo here](https://youtu.be/NqiuXiez3qs)

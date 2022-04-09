@@ -93,8 +93,9 @@ All of our detailed documentation can be found [here](https://github.com/Copy-Wa
 
 ## Demos
 
-- [Watch the Green Screen Dashboard Demo here](https://youtu.be/NqiuXiez3qs)
 - [Watch the Universal Bin Detector Demo here](https://youtu.be/K-p7Ay8yws8)
+- [Watch the Green Screen Dashboard Demo here](https://youtu.be/NqiuXiez3qs)
+- [Watch the Copy Paste Data Augmentation Demo here](https://youtu.be/meSnyuKwPoA)
 
 ## Vlogs
 

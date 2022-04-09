@@ -1,6 +1,13 @@
 ## Installation
+clone the yolov5 repository into the bin detector directory.
+
 ```bash
-    $ pip install -r requirements.txt
+    git clone https://github.com/proboticsinc/prairie-robotics-yolov5-fork.git
+```
+After installing yolo, install the other dependencies using:
+
+```bash
+    pip install -r requirements.txt
 ```
 ## Preparing Data / Annotations
 The original dataset was created using the binary classification data and False Positives collected from Streamsight streetview images, annotated using bounding boxes and contained the following classes: 'BLUE_BIN_CLOSE', 'BLACK_BIN_CLOSE', 'BLUE_BIN_FAR', 'BLACK_BIN_FAR','PORTA_POTTY', 'BUILDING', 'VEHICLE_BLUE', 'BLUE_BARREL_FAR', 'OMITTED']
